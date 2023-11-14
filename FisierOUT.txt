@@ -1,0 +1,55 @@
+
+=====AFISARE SISTEM IOT =====
+Sistemul IOT Casa_Smart prezinta 5 senzori iar acestia sunt urmatorii:
+1. Senzorul de temperatura  a avut 3 interactiuni cu locatarii astazi, a avut 2 resetari. Acesta a fost fabricat in anul 2021 de catre TSense avand o durata medie de viata de 10 ani. Timpul sau de raspuns este de aproximativ 6 milisecunde.
+In caz de urgenta:Se_reseteaza
+
+Acest senzor se afla in conexiune cu urmatorii 1 senzori: Senzorul de umiditate 
+Senzorul de asemenea prezinta istoricul datelor din ultimele 3 luni.
+Acesta a interactionat lunar de:
+In luna 1 a interactionat de 18 ori. 
+In luna 2 a interactionat de 19 ori. 
+In luna 3 a interactionat de 24 ori. 
+Senzorul permite conectare wireless.
+
+2. Senzorul de lumina  a avut 0 interactiuni cu locatarii astazi, a avut 1 resetari. Acesta a fost fabricat in anul 2020 de catre TSense avand o durata medie de viata de 15 ani. Timpul sau de raspuns este de aproximativ 10 milisecunde.
+In caz de urgenta:Se_reseteaza
+Acesta nu este conectat cu vreun alt senzor.
+Senzorul de asemenea prezinta istoricul datelor din ultimele 2 luni.
+Acesta a interactionat lunar de:
+In luna 1 a interactionat de 3 ori. 
+In luna 2 a interactionat de 5 ori. 
+Senzorul nu permite conectare wireless.
+
+3. Senzorul de miscare  a avut 0 interactiuni cu locatarii astazi, a avut 3 resetari. Acesta a fost fabricat in anul 2018 de catre TSense avand o durata medie de viata de 5 ani. Timpul sau de raspuns este de aproximativ 1 milisecunde.
+In caz de urgenta:Porneste_alarma
+
+Acest senzor se afla in conexiune cu urmatorii 1 senzori: Senzorul de fum 
+Acesta nu prezinta istoric.
+Senzorul permite conectare wireless.
+
+4. Senzorul de fum  a avut 0 interactiuni cu locatarii astazi, a avut 1 resetari. Acesta a fost fabricat in anul 2022 de catre TSense avand o durata medie de viata de 20 ani. Timpul sau de raspuns este de aproximativ 10 milisecunde.
+In caz de urgenta:Porneste_alarma
+
+Acest senzor se afla in conexiune cu urmatorii 1 senzori: Senzorul de miscare 
+Senzorul de asemenea prezinta istoricul datelor din ultimele 2 luni.
+Acesta a interactionat lunar de:
+In luna 1 a interactionat de 1 ori. 
+In luna 2 a interactionat de 0 ori. 
+Senzorul permite conectare wireless.
+
+5. Senzorul de umiditate  a avut 0 interactiuni cu locatarii astazi, a avut 0 resetari. Acesta a fost fabricat in anul 2013 de catre TSense avand o durata medie de viata de 15 ani. Timpul sau de raspuns este de aproximativ 15 milisecunde.
+In caz de urgenta:Se_reseteaza
+
+Acest senzor se afla in conexiune cu urmatorii 1 senzori: Senzorul de temperatura 
+Acesta nu prezinta istoric.
+Senzorul permite conectare wireless.
+
+
+Pentru acest SistemIOT, s-au calculat urmatoarele:
+Profilul senzorului 1 este:9
+Profilul senzorului 2 este:8
+Profilul senzorului 3 este:7
+Profilul senzorului 4 este:9
+Profilul senzorului 5 este:6
+Inteligenta sistemului este:7.8/10
